@@ -109,7 +109,7 @@ button.editar:hover {
     background-color: #744d41;
 }
 
-.botao_lista {
+#botao_lista {
     background-color: #f9335bd8;
     border-radius: 10px;
     border-color: #f7869c ;
@@ -120,7 +120,7 @@ button.editar:hover {
     border: none;
 }
 
-.botao_lista:hover {
+#botao_lista:hover {
     background-color: #ff5e7ed8;
     box-shadow: 0 0 10px #ff7f91;
 }
